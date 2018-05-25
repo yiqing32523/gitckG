@@ -2,7 +2,8 @@ package com.cyw.test;
 
 public class Test01 {
      public static void main(String[] args) {
-		System.out.println("ÕâÊÇ²âÊÔ");
-		System.out.println("ÕâÊÇ²âÊÔ2");
+		System.out.println("ï¿½ï¿½ï¿½Ç²ï¿½ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½ï¿½Ç²ï¿½ï¿½ï¿½2");
+		System.out.println("è¿™æ˜¯æµ‹è¯•3");
 	}
 }
